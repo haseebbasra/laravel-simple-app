@@ -1,5 +1,5 @@
 # laravel-simple-app
-I This is a simple laravel repository for new Laravel developers to see how the things they learned actually work. This app contains code explaining core laravel concepts.
+This is a simple laravel repository for new Laravel developers to see how the things they learned actually work. This app contains code explaining core laravel concepts.
 
 
 ## Topics covered in app
