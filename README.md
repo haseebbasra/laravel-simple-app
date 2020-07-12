@@ -1,5 +1,5 @@
 # laravel-simple-app
-This is a simple laravel repository for new Laravel developers to see how the things they learned actually work. This app contains code explaining core laravel concepts.
+This is a simple laravel repository for new Laravel developers to see how the things they learned actually work. This app contains code explaining core laravel concepts. Follow instructions-laraveltest.odt file enclosed in this folder to see how the code works
 
 
 ## Topics covered in app
